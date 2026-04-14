@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/out.dir/link.d CMakeFiles/out.dir/phi_insertion.cpp.o CMakeFiles/out.dir/test.cpp.o -o out

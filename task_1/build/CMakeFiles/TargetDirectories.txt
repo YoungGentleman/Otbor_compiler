@@ -1,0 +1,3 @@
+/home/alex/Desktop/Projects/5_compiler/task_1/build/CMakeFiles/cycle.dir
+/home/alex/Desktop/Projects/5_compiler/task_1/build/CMakeFiles/edit_cache.dir
+/home/alex/Desktop/Projects/5_compiler/task_1/build/CMakeFiles/rebuild_cache.dir
